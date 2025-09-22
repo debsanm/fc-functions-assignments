@@ -47,5 +47,6 @@ Completion Time in 24 hour format:
 Enter Y or y to continue, any other halts
 
 n
+
 Press any key to continue
 
