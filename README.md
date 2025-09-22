@@ -35,12 +35,17 @@ Enter Y or y to continue, any other halts
 y
 
 Current time:
+
 Enter 24 hour time in the format HH:MM
 8:30
+
 Waiting time:
+
 Enter 24 hour time in the format HH:MM
 15:10
+
 Completion Time in 24 hour format:
+
 23:40
 
 
