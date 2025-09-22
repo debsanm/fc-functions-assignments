@@ -33,6 +33,7 @@ Enter 24 hour time in the format HH:MM
 Enter Y or y to continue, any other halts
 
 y
+
 Current time:
 Enter 24 hour time in the format HH:MM
 8:30
