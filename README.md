@@ -16,3 +16,6 @@ Tails
 
 The program must define and call the following function:
 string CoinFlip()
+
+
+2.   You have invented a vending machine capable of deep frying twinkies. Write a program to simulate the vending machine. It costs $3.50 to buy a deep-fried twinkie, and the machine only takes coins in denominations of a dollar, quarter, dime, or nickel. Write code to simulate a person putting money into the vending machine by repeatedly prompting the user for the next coin to be inserted. Output the total entered so far when each coin is inserted. When $3.50 or more is added, the program should output “Enjoy your deep-fried twinkie” along with any change that should be returned. Use top-down design to determine appropriate functions for the program.
